@@ -1,0 +1,48 @@
+1;Nvidia;GT 710;2;DDR3;200;false;0;PCI 2.0x8;192;baja
+2;Nvidia;GT 720;2;GDDR5;300;false;0;PCI 2.0x8;192;baja
+3;Nvidia;GT 730;2;GDDR5;300;false;0;PCI 2.0x16;384;baja
+4;Nvidia;GT 740;2;GDDR5;350;true;1x6;PCI 3.0x16;384;baja
+5;Nvidia;GTX 750;1;GDDR5;350;false;0;PCI 3.0x16;512;baja
+6;Nvidia;GTX 750 ti;2;GDDR5;350;false;0;PCI 3.0x16;640;baja
+7;Nvidia;GTX 760;2;GDDR5;400;true;2x6;PCI 3.0x16;1152;baja
+8;Nvidia;GTX 770;2;GDDR5;500;true;1x6-1x8;PCI 3.0x16;1536;baja
+9;Nvidia;GTX 780;3;GDDR5;500;true;1x6-1x8;PCI 3.0x16;2304;baja
+10;Nvidia;GTX 780 ti;3;GDDR5;500;true;1x6-1x8;PCI 3.0x16;2880;baja
+11;Nvidia;GTX TITAN;6;GDDR 5;500;true;1x6-1x8;PCI 3.0x16;2688;baja-media
+12;Nvidia;GTX TITAN BLACK;6;GDDR5;500;true;1x6-1x8;PCI 3.0x16;2880;baja-media
+13;Nvidia;GT TITAN Z;12;GDDR5;500;true;2x8;PCI 3.0x16;5760;baja-media
+14;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+15;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+16;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+17;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+18;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+19;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+20;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+21;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+22;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+23;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+24;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+25;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+26;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+27;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+28;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+29;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+30;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+31;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+32;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+33;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+34;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+35;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+36;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+37;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+38;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+39;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+40;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+41;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+42;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+43;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+44;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+45;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+46;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+47;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
+48;Nvidia;GT 710;2;GDDR5;200;false;0;PCI 3.0x16;192;baja
